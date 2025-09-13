@@ -1,5 +1,5 @@
-# CJDFusion
-Code of CJDFusion: A Cross-Modal Joint Diffusion Model for Infrared and Visible Image Fusion
+# VDifFusion
+Code of VDifFusion: A Cross-Modal Joint Diffusion Model for Infrared and Visible Image Fusion
 
 ## Tips:<br>
 1.Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here: https://github.com/Linfeng-Tang/MSRS
@@ -23,8 +23,9 @@ Test results on the RoadSence dataset can be downloaded here: https://drive.goog
 
 If this work is helpful to you, please cite it as:
 ```
-@article{CJDFusion,
-  title={CJDFusion: A Cross-Modal Joint Diffusion Model for Infrared and Visible Image Fusion},
+@article{VDifFusion,
+  title={VDifFusion: A Cross-Modal Joint Diffusion Model for Infrared and Visible Image Fusion},
 }
 ```
 If you have any question, please email to me (805087624@qq.com).
+
