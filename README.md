@@ -32,5 +32,7 @@ If you have any question, please email to me (1221211001@stu.xaut.edu.cn).
 
 ## Ref
 [1] Z. Zhao, H. Bai, Y. Zhu, J. Zhang, S. Xu, Y. Zhang, K. Zhang, D. Meng, R. Timofte, L. Van Gool, DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion, in: 2023 IEEE/CVF International Conference on Computer Vision (ICCV), IEEE, Paris, France, 2023: pp. 8048–8059. 
+
 [2] A. Radford, J.W. Kim, C. Hallacy, A. Ramesh, G. Goh, S. Agarwal, G. Sastry, A. Askell, P. Mishkin, J. Clark, G. Krueger, I. Sutskever, Learning Transferable Visual Models From Natural Language Supervision, in: 38th International Conference on Machine Learning, ICML 2021, July 18, 2021  -  July 24, 2021, ML Research Press, Virtual, Online, 2021: pp. 8748–8763.
+
 
