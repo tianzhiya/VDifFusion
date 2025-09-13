@@ -30,3 +30,5 @@ If this work is helpful to you, please cite it as:
 If you have any question, please email to me (1221211001@stu.xaut.edu.cn).
 
 
+## Ref
+Z. Zhao, H. Bai, Y. Zhu, J. Zhang, S. Xu, Y. Zhang, K. Zhang, D. Meng, R. Timofte, L. Van Gool, DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion, in: 2023 IEEE/CVF International Conference on Computer Vision (ICCV), IEEE, Paris, France, 2023: pp. 8048–8059. 
