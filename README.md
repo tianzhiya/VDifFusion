@@ -27,5 +27,6 @@ If this work is helpful to you, please cite it as:
   title={VDifFusion: A Cross-Modal Joint Diffusion Model for Infrared and Visible Image Fusion},
 }
 ```
-If you have any question, please email to me (805087624@qq.com).
+If you have any question, please email to me (1221211001@stu.xaut.edu.cn).
+
 
