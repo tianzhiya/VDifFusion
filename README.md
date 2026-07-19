@@ -1,5 +1,5 @@
-# VDifFusion
-Code of VDifFusion: A Cross-Modal Joint Diffusion Model for Infrared and Visible Image Fusion
+# CMDFusion
+Code of CMDFusion: A Cross-Modal Joint Diffusion Model for Infrared and Visible Image Fusion
 
 ## Tips:<br>
 1.Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here: https://github.com/Linfeng-Tang/MSRS
