@@ -486,9 +486,21 @@ class DenoisingDiffusion(object):
         L_clip = clip_loss.L_clip_from_feature(neg_weight=0.5)
 
         # 正向文本列表
-        prompt_pos = ['a vivid image with clear background and obvious objects']
+        prompt_pos = ['an infrared and visible fused image with clear salient targets',
+                      'a fused image preserving infrared target information and visible textures',
+                      'a fusion result with enhanced thermal targets and rich background details',
+                      'a high quality infrared visible fusion image with sharp edges',
+                      'a fused image with complete structures and natural illumination',
+                      'a semantic consistent fusion image with clear objects and background',
+                      'a fusion image with strong target visibility and detailed scene information']
         # 负向文本列表（示例）
-        prompt_neg = ['a blurry image with messy background and unclear objects']
+        prompt_neg = ['an infrared and visible fused image with missing target information',
+                      'a fusion result with blurred objects and weak structural details',
+                      'a fusion image with excessive noise and artifacts',
+                      'a fusion image losing infrared targets and visible textures',
+                      'a fused image with unclear objects and damaged structures',
+                      'a fusion result with poor contrast and missing details',
+                      'a fusion image with semantic inconsistency between objects and background']
 
         embedding_prompt = prompt.module.embedding_prompt
         embedding_prompt.requires_grad = False
