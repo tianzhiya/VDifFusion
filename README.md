@@ -23,7 +23,7 @@ Test results on the RoadSence dataset can be downloaded here: https://drive.goog
 
 If this work is helpful to you, please cite it as:
 ```
-@article{CMDFusion:,
+@article{CMDFusion
   title={CMDFusion:: A Cross-Modal Joint Diffusion Model for Infrared and Visible Image Fusion},
 }
 ```
